@@ -1,14 +1,14 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <a href="assets/1.png"><img src="assets/1.png" width="30%" alt="Home Screen"/></a>
-  <a href="assets/2.png"><img src="assets/2.png" width="30%" alt="Coffee Categories"/></a>
-  <a href="assets/screen3.png"><img src="assets/screen3.png" width="30%" alt="Coffee Details"/></a>
+  <a href="./assets/screen1.png"><img src="./assets/screen1.png" width="30%" alt="Home Screen"/></a>
+  <a href="./assets/screen2.png"><img src="./assets/screen2.png" width="30%" alt="Coffee Categories"/></a>
+  <a href="./assets/screen3.png"><img src="./assets/screen3.png" width="30%" alt="Coffee Details"/></a>
 </p>
 <p align="center">
-  <a href="assets/screen4.png"><img src="assets/screen4.png" width="30%" alt="Cart Screen"/></a>
-  <a href="assets/screen5.png"><img src="assets/screen5.png" width="30%" alt="Order Summary"/></a>
-  <a href="assets/screen6.png"><img src="assets/screen6.png" width="30%" alt="Checkout"/></a>
+  <a href="./assets/screen4.png"><img src="./assets/screen4.png" width="30%" alt="Cart Screen"/></a>
+  <a href="./assets/screen5.png"><img src="./assets/screen5.png" width="30%" alt="Order Summary"/></a>
+  <a href="./assets/screen6.png"><img src="./assets/screen6.png" width="30%" alt="Checkout"/></a>
 </p>
 
 
