@@ -1,26 +1,25 @@
 ## ​ Screenshots
-## 📸 Screenshots
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen1.png">
-    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen1.png" width="30%" alt="Home Screen"/>
+  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen1.jpeg">
+    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen1.jpeg" width="30%" alt="Home Screen"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen2.png">
-    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen2.png" width="30%" alt="Coffee Categories"/>
+  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen2.jpeg">
+    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen2.jpeg" width="30%" alt="Coffee Categories"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen3.png">
-    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen3.png" width="30%" alt="Coffee Details"/>
+  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen3.jpeg">
+    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen3.jpeg" width="30%" alt="Coffee Details"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen4.png">
-    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen4.png" width="30%" alt="Cart Screen"/>
+  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen4.jpeg">
+    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen4.jpeg" width="30%" alt="Cart Screen"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen5.png">
-    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen5.png" width="30%" alt="Order Summary"/>
+  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen5.jpeg">
+    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen5.jpeg" width="30%" alt="Order Summary"/>
   </a>
-  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen6.png">
-    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen6.png" width="30%" alt="Checkout"/>
+  <a href="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen6.jpeg">
+    <img src="https://raw.githubusercontent.com/Behrooz007/CoffeeApp/master/assets/screen6.jpeg" width="30%" alt="Checkout"/>
   </a>
 </p>
 
