@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">coffeeB</string>
+    <string name="choice_your_nfavorite_coffee">Choice Your\nFavorite Coffee</string>
+    <string name="get_started">Get Started</string>
+    <string name="soma_rashidi">Soma Rashidi</string>
+    <string name="search_anything">Search Anything...</string>
+    <string name="category">Category</string>
+    <string name="populur_coffees">Populur Coffees</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="my_order">My Order</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="if_you_don_t_have_an_account">If You Don\'t have an Account ?</string>
+    <string name="register_now">Register Now</string>
+    <string name="login_now">Login Now</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="your_favorite_pizza_is_just_n_a_tap_away">Your favorite pizza is just\n a tap away!</string>
+
+
+</resources>
